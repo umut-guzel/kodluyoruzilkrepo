@@ -5,6 +5,13 @@
 ### Kodluyoruz İlk Repo
 
 
+- SEVDİĞİM HAYVANLAR:
+* Balık
+* Kedi
+* Köpek
+* Kuş
+
+https://picsum.photos/id/237/200/300
 
 
 # kodluyoruzilkrepo
